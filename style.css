@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.home-page {
+  background: url('images/home-bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+}
+.about-page {
+  background: url('images/about-bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+}
+.feature-img {
+  max-width: 90%;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 12px;
+}
